@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Superguy2125
-- 👀 I’m interested in playing games, reserching stuff etc.
+- 👀 I’m interested in playing games,researching stuff etc.
 - 🌱 I’m currently learning anything i desire
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Contact me on Discord
+- 😄 Pronouns: no
 
 <!---
 Superguy2125/Superguy2125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
