@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing games,researching stuff etc.
 - 🌱 I’m currently learning anything i desire
 - 📫 How to reach me: Contact me on Discord
-- 😄 Pronouns: no
+- 😄 Pronouns: He/him
 
 <!---
 Superguy2125/Superguy2125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
